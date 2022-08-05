@@ -22,7 +22,7 @@ Join us in the #tooling channel on the [Roku Developers Slack](https://join.slac
 
 ## Requirements
 
-* Node **v7.6** or higher.
+* Node **v12.22** or higher.
 
 ## Project setup
 
